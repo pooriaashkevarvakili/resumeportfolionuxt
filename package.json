@@ -14,8 +14,8 @@
   "dependencies": {
     "@kevinmarrec/nuxt-pwa": "^0.17.0",
     "@nuxtjs/tailwindcss": "^6.8.0",
-    "@unhead/vue": "^1.1.27",
-    "@vueuse/core": "^10.0.2",
+    "@unhead/vue": "^1.1.32",
+    "@vueuse/core": "^10.2.1",
     "autoprefixer": "^10.4.14",
     "flowbite": "^1.6.5",
     "flowbite-vue": "^0.0.10",
